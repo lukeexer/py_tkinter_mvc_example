@@ -2,7 +2,7 @@
 
 import tkinter as tk
 
-from mvc.views import HelloFrame
+from mvc.view.hello import HelloFrame
 
 class Controller(tk.Tk):
     '''Controller class.'''
